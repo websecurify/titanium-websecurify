@@ -18,4 +18,4 @@ The code is largely undocumented and copied verbatim from the original SVN code 
 
 ## Purpose
 
-This code is now absolute and unmaintained. Websecurify will be making additional work in this space with our next generation web application security scanner.
+This code is now absolute and unmaintained. Websecurify will be making additional work in this space with our next generation web application security scanner. Sec [secapps.com](https://secapps.com) for more information.
